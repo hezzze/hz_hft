@@ -1,0 +1,11 @@
+{
+    "name": "m2_nft_v1-0",
+    "description": "Some random creation from years ago",
+    "image": "https://ipfs.io/ipfs/QmVJoZPQ8MhTwvs6jcJHAyBZAAHNzjH5VaXjmeHi4jdpvM?filename=0.png",
+    "attributes": [
+        {
+            "trait_type": "Curiosity",
+            "value": 100
+        }
+    ]
+}
